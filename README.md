@@ -59,4 +59,6 @@ l'éxécution de l'exercice 9 :
 
 
 l'éxécution de l'exercice 10 :
+
+
 <img width="750" height="471" alt="ex10" src="https://github.com/user-attachments/assets/26099db5-f016-48ea-ae22-19beae6ed6ee" />
